@@ -4,6 +4,11 @@
 # Data files
 data/
 
+# Output of a program (logs, dumps, etc.)
+out/
+logs/
+tmp/
+
 # Prerequisites
 *.d
 
