@@ -1,7 +1,14 @@
+# VS Code
+.vscode/
+
+# Data files
+data/
+
 # Prerequisites
 *.d
 
 # Object files
+obj/
 *.o
 *.ko
 *.obj
@@ -17,6 +24,7 @@
 *.pch
 
 # Libraries
+lib/
 *.lib
 *.a
 *.la
@@ -29,6 +37,7 @@
 *.dylib
 
 # Executables
+bin/
 *.exe
 *.out
 *.app
@@ -37,6 +46,7 @@
 *.hex
 
 # Debug files
+build/
 *.dSYM/
 *.su
 *.idb
