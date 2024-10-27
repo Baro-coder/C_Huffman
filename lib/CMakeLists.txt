@@ -1,0 +1,2 @@
+add_subdirectory(C_LibLogs)
+add_subdirectory(googletest)

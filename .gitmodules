@@ -1,0 +1,6 @@
+[submodule "lib/C_LibLogs"]
+	path = lib/C_LibLogs
+	url = https://github.com/Baro-coder/C_LibLogs
+[submodule "lib/googletest"]
+	path = lib/googletest
+	url = https://github.com/google/googletest.git
