@@ -8,3 +8,4 @@ set(CMAKE_CXX_FLAG "${CMAKE_CXX_FLAGS} -Wall -Wextra -Werror -pedantic")
 
 add_subdirectory(app)
 add_subdirectory(lib)
+add_subdirectory(tests)
