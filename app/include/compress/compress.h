@@ -2,7 +2,7 @@
 #define BS_COMPRESS_H
 
 #include <common/common.h>
-#include <compress/info_src_model.h>
+#include <compress/info_model.h>
 #include <compress/code_table.h>
 #include <logs.h>
 

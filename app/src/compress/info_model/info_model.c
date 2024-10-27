@@ -1,4 +1,4 @@
-#include <compress/info_src_model.h>
+#include <compress/info_model.h>
 
 int dump_model_to_file(ism_t ***symbols_arr, const char *filepath)
 {
